@@ -11,4 +11,4 @@ This repository documents my daily commitment to solving LeetCode problems to st
 - 💻 Language: **Java** (primary)
 - 🎯 Goal: Improve logic, coding efficiency, and interview readiness
 
-![365 Days LeetCode Progress]()
+![365 Days LeetCode Progress](https://github.com/JaganParida/leetcode-365/blob/main/profile.png)
